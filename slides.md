@@ -1,6 +1,6 @@
 ---
 # API
-theme: seriph
+theme: Seriph
 ---
 
 # What is API?
@@ -12,7 +12,6 @@ API are are responsible for taking in requests, talking to the system (server), 
 
 ---
 
-## transition: fade-out
 
 # Why Do We Use APIs?
 
@@ -119,7 +118,7 @@ Most API often use:
 ---
 
 # Here is a Simple App To Solidify Our Knowledge
-
+<!--
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -152,7 +151,7 @@ Most API often use:
   <button onclick="guessAge()">Guess Age</button>
   <div id="result"></div>
 
-<!--JavaScript code starts here-->
+<!--JavaScript code starts here
 <br>
 <br>
 
@@ -180,5 +179,5 @@ Most API often use:
   </script>
 </body>
 </html>
-
+-->
 ## Thank You
